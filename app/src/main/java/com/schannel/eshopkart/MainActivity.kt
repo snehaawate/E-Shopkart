@@ -81,7 +81,7 @@ class MainActivity : ComponentActivity() {
     @Composable
     private fun HomePageUI(viewModel: ProductViewModel) {
         Scaffold(topBar = {
-            SimpleLightTopAppBar("eShop")
+            SimpleLightTopAppBar("E-Shopkart")
         }
 
         ) { paddingValues ->
