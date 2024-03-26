@@ -35,7 +35,7 @@ The E-shopkart App follows a modern and scalable architecture based on the MVVM 
 
 | MainPage | Details Page | 
 |------------|-------------|
-| ![MainPage ](ss0.png) | ![Details](ss1.png) |
+| ![MainPage ](s11.png) | ![Details](s12.png) |
 ## Getting Started
 
 To run the E-shopkart App locally and explore its features, follow these steps:
