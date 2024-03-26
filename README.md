@@ -12,7 +12,7 @@ Welcome to the E-shopkart App! This Android application is designed to provide u
 
 - **Product Listings**: Browse through a wide range of products, organized into categories for easy navigation.
 - **Product Details**: View detailed information about each product, including descriptions, prices, and availability.
-- **Broadcast receiver **: Dynamic UI check Internet Connection.
+- **Broadcast receiver**: Dynamic UI check Internet Connection.
 
 ## Architecture
 
