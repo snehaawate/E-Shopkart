@@ -1,5 +1,7 @@
 
-# E-shopkart App with MVVM + Retrofit + Use Cases + Mapper + Dagger Hilt + Coroutines + Flow + Generics + Sealed class & broadcast receiver using Jetpack Compose
+# E-shopkart App 
+
+#####  MVVM + Retrofit + Use Cases + Mapper + Dagger Hilt + Coroutines + Flow + Generics + Sealed class & broadcast receiver using Jetpack Compose
 
 
 
