@@ -1,10 +1,10 @@
 
-# eShop App with MVVM + Retrofit + Use Cases + Mapper + Dagger Hilt + Coroutines + Flow + Generics + Sealed class & broadcast receiver using Jetpack Compose
-
-<img src="https://github.com/Dinesh2510/EShop-Jetpack-Compose-API-Demo/blob/main/youtube%20thumbnail%20(6).png" width="750" class="center">
+# E-shopkart App with MVVM + Retrofit + Use Cases + Mapper + Dagger Hilt + Coroutines + Flow + Generics + Sealed class & broadcast receiver using Jetpack Compose
 
 
-Welcome to the eShop App! This Android application is designed to provide users with a seamless shopping experience, allowing them to browse through a variety of products and make purchases directly from their mobile devices. Built with modern Android development tools and architectural patterns, including Retrofit, MVVM, Hilt, Coroutines, Flow, and broadcast receiver using Jetpack Compose, this app combines robust functionality with a sleek and intuitive user interface.
+
+
+Welcome to the E-shopkart App! This Android application is designed to provide users with a seamless shopping experience, allowing them to browse through a variety of products and make purchases directly from their mobile devices. Built with modern Android development tools and architectural patterns, including Retrofit, MVVM, Hilt, Coroutines, Flow, and broadcast receiver using Jetpack Compose, this app combines robust functionality with a sleek and intuitive user interface.
 
 ## Features
 
@@ -14,7 +14,7 @@ Welcome to the eShop App! This Android application is designed to provide users 
 
 ## Architecture
 
-The eShop App follows a modern and scalable architecture based on the MVVM (Model-View-ViewModel) pattern. This architecture separates concerns between the data layer, presentation layer, and UI components, ensuring maintainability, testability, and flexibility throughout the development process.
+The E-shopkart App follows a modern and scalable architecture based on the MVVM (Model-View-ViewModel) pattern. This architecture separates concerns between the data layer, presentation layer, and UI components, ensuring maintainability, testability, and flexibility throughout the development process.
 
 - **Model**: Represents the data and business logic of the application, including entities, repositories, and data sources.
 - **View**: Displays the user interface elements and interacts with the ViewModel to retrieve and present data.
@@ -36,7 +36,7 @@ The eShop App follows a modern and scalable architecture based on the MVVM (Mode
 | ![MainPage ](ss0.png) | ![Details](ss1.png) |
 ## Getting Started
 
-To run the eShop App locally and explore its features, follow these steps:
+To run the E-shopkart App locally and explore its features, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the project in Android Studio.
@@ -45,12 +45,12 @@ To run the eShop App locally and explore its features, follow these steps:
 
 ## Contributing
 
-Contributions to the eShop App are welcome! If you encounter any bugs, have suggestions for improvements, or would like to contribute new features, feel free to submit a pull request or open an issue on the GitHub repository.
+Contributions to the E-shopkart App are welcome! If you encounter any bugs, have suggestions for improvements, or would like to contribute new features, feel free to submit a pull request or open an issue on the GitHub repository.
 
 ## License
 
-The eShop App is licensed under the [MIT License](LICENSE), allowing for both personal and commercial use with attribution. See the LICENSE file for more details.
+The E-shopkart App is licensed under the [MIT License](LICENSE), allowing for both personal and commercial use with attribution. See the LICENSE file for more details.
 
 
 ---
-By: [Dinesh2510]
+By: [SnehaAwate]
